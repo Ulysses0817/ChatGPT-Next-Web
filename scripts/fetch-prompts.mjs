@@ -4,7 +4,7 @@ import fs from "fs/promises";
 const RAW_FILE_URL = "https://raw.githubusercontent.com/";
 const MIRRORF_FILE_URL = "https://raw.fgit.ml/";
 
-const RAW_CN_URL = "PlexPt/awesome-chatgpt-prompts-zh/main/prompts-zh.json";
+const RAW_CN_URL = "Ulysses0817/f8e2560c50626015c874c5a864ffc9fb/raw/c888d410b73c4fe6d9e973c5f08601bc3923c003/prompt_cls.json";
 const CN_URL = MIRRORF_FILE_URL + RAW_CN_URL;
 const RAW_EN_URL = "f/awesome-chatgpt-prompts/main/prompts.csv";
 const EN_URL = MIRRORF_FILE_URL + RAW_EN_URL;
